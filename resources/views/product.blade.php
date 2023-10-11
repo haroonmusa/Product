@@ -19,10 +19,7 @@
             <label for="quality" class="quality">Quality</label>
             <input name="quality" type="quality" class="quality" id="quality">
         </div>
-        <div class="mb-1">
-            <label for="price" class="price">Price</label>
-            <input name="price" type="price" class="price" id="price">
-        </div>
+        {{-- feature1 branch --}}
         <input type="submit" name="submit" id="" class="btn btn-primary">
         <a href="{{url('/')}}">Show Data</a>
 
