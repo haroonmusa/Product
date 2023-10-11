@@ -19,6 +19,10 @@
             <label for="price" class="price">Price</label>
             <input name="price" type="price" class="price" id="price">
         </div>
+            <label for="quantity" class="quantity">quantity</label>
+            <input name="quantity" type="quantity" class="quantity" id="quantity">
+        </div>
+        {{-- feature1 branch --}}
         <input type="submit" name="submit" id="" class="btn btn-primary">
         <a href="{{url('/')}}">Show Data</a>
 
