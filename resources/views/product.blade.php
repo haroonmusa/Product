@@ -16,8 +16,8 @@
             <input name="name"type="name" class="name" id="name" aria-describedby="name">
         </div>
         <div class="mb-1">
-            <label for="quality" class="quality">Quality</label>
-            <input name="quality" type="quality" class="quality" id="quality">
+            <label for="quantity" class="quantity">quantity</label>
+            <input name="quantity" type="quantity" class="quantity" id="quantity">
         </div>
         {{-- feature1 branch --}}
         <input type="submit" name="submit" id="" class="btn btn-primary">
