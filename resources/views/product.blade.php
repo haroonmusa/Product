@@ -16,10 +16,6 @@
             <input name="name"type="name" class="name" id="name" aria-describedby="name">
         </div>
         <div class="mb-1">
-            <label for="quantity" class="quantity">quantity</label>
-            <input name="quantity" type="quantity" class="quantity" id="quantity">
-        </div>
-        <div class="mb-1">
             <label for="price" class="price">Price</label>
             <input name="price" type="price" class="price" id="price">
         </div>
